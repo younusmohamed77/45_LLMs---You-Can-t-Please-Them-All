@@ -1,0 +1,1 @@
+https://www.kaggle.com/competitions/llms-you-cant-please-them-all
